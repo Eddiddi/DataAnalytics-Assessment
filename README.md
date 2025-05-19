@@ -20,8 +20,6 @@ funded investment plan, sorted by total deposits.
 - Ensuring accurate classification between investment vs. regular savings required understanding `is_a_fund` and `is_regular_savings` flags.
 - The need to convert `confirmed_amount` from Kobo to Naira by dividing by 100.
 
----
-
 ## Question 2: Transaction Frequency Analysis
 
 **Scenario**: The finance team wants to analyze how often customers transact to segment them (e.g., frequent vs. occasional users).
