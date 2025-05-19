@@ -74,8 +74,9 @@ year (365 days).
 - Ensured that new users (with 0-month tenure) were excluded to avoid division by zero.
 - Used `NULLIF` to gracefully avoid divide-by-zero errors.
 - Rounded results to 2 decimal places for better readability.
-
-Prepared by:
+  
+---
+**Prepared by**:
 Edidiong Uko
-Email: uko2edidiong@gmail.com
-LinkedIn: [Edidiong Uko](https://www.linkedin.com/in/edidiong-uko-18659a244/)
+**Email**: uko2edidiong@gmail.com
+**LinkedIn**: [Edidiong Uko](https://www.linkedin.com/in/edidiong-uko-18659a244/)
